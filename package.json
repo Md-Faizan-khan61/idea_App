@@ -1,0 +1,14 @@
+{
+  "name": "ideaapp",
+  "version": "1.0.0",
+  "description": "trying to make an idea app with vishwa mohan sir 17/04/2024",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
