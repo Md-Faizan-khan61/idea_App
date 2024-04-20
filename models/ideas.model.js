@@ -7,8 +7,8 @@ module.exports = {
   },
 2:{ id:2,
     id_name:"Great idea",
-    author_name:"Md Salman Khan",
-    idea_description:"this idea come from mdsalmankhan"
+    author_name:"Md Asif Khan",
+    idea_description:"this idea come from mdasifkhan"
   },
 3:{ id:3,
     id_name:"Great idea",
